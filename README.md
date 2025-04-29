@@ -175,8 +175,6 @@ This software is provided for educational purposes only. Users must:
 ## 📞 Support
 
 - GitHub Issues: For bug reports and feature requests
-- Documentation: [Link to docs - Coming Soon]
-- Email: support@autoply.dev
 
 ## 🙏 Acknowledgments
 
