@@ -77,7 +77,7 @@ pip install -r requirements.txt
 ### System Requirements
 - Python 3.10 or higher
 - Google Chrome Browser
-- 4GB RAM minimum
+- 4GB RAM minimum(Recommended)
 - Stable internet connection
 
 ### Python Dependencies
